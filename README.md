@@ -1,2 +1,2 @@
 # RecipeBook
-Chef recipes used for AWS 
+Chef recipes for Ubuntu AMI
