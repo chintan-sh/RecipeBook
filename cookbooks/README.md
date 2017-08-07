@@ -1,4 +1,4 @@
-## Traverse to this directory (~/working_directory_name/cookbooks) and fire this command to execute default recipe inside recipes folder :
+## Traverse to this directory (~/working_directory_name/cookbooks) and fire this command from here to execute default recipe (inside target/recipes folder) :
 
 ```sudo chef-client --local-mode --runlist 'recipe[learn_chef_apache2]'```
 
