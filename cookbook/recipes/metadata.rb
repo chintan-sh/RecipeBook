@@ -1,6 +1,6 @@
 name 'cookbook'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Chintan Shah'
+maintainer_email 'mail@chintansh.com'
 license 'all_rights'
 description 'Installs/Configures cookbook'
 long_description 'Installs/Configures cookbook'
