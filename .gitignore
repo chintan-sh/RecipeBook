@@ -1,6 +1,24 @@
+.vagrant
+Berksfile.lock
+*~
+*#
+.#*
+\#*#
+.*.sw[a-z]
+*.un~
+
 /nodes
 nodes/
 nodes*/
 archive/
 /archive
 archive*/
+
+
+# Bundler
+Gemfile.lock
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
