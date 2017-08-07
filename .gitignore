@@ -13,6 +13,10 @@ nodes*/
 archive/
 /archive
 archive*/
+backup/
+/backup
+backup*/
+
 
 
 # Bundler
