@@ -2,7 +2,7 @@
 # Cookbook Name:: target
 # Recipe:: default
 #
-# Copyright (c) 2017 The Authors, All Rights Reserved.
+# Copyright (c) 2017 Chintan, All Rights Reserved.
 
 apt_update 'Update the apt cache daily' do
   frequency 86_400
