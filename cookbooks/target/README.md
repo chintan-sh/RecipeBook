@@ -1,4 +1,4 @@
-# target
+# Target
 
-TODO: Enter the cookbook description here.
+Central directory for Recipes and Templates.
 
